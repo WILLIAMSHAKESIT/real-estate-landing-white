@@ -95,13 +95,13 @@ const layout = {
                         <div class="slide">
                             <div class="owl-carousel modal-slide owl-theme">
                                 <div class="item">
-                                    <img src="/img/slide1.jpg">
+                                    <img src="img/slide1.jpg">
                                 </div>
                                 <div class="item">
-                                    <img src="/img/slide2.jpg">
+                                    <img src="img/slide2.jpg">
                                 </div>
                                 <div class="item">
-                                    <img src="/img/slide2.jpg">
+                                    <img src="img/slide2.jpg">
                                 </div>
                             </div>
                         </div>

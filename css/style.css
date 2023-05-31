@@ -488,6 +488,8 @@ Explorer 10-11 */
   padding: 36px;
   display: flex;
   gap: 20px;
+  max-height: 450px;
+  overflow: auto;
 }
 .my-modal .modal-wrapper .content .slide {
   width: -moz-fit-content;
@@ -1217,6 +1219,10 @@ footer .container-mine .contacts a:hover {
   main section#faqs::before {
     left: 0;
   }
+  footer {
+    height: -moz-fit-content;
+    height: fit-content;
+  }
   footer .container-mine {
     flex-direction: column;
   }
@@ -1226,7 +1232,7 @@ footer .container-mine .contacts a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 30px 0;
+    padding: 15px 0;
   }
   .my-modal .modal-wrapper .header {
     flex-direction: column;
